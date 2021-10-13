@@ -1,5 +1,5 @@
 # Hello-world
-Hello world repository, pls don't mind me
+Pls don't mind me
 I'm modifying this, once again pls don't mind me
 My name is VeMBe, I'm a biology stuent and I'm learning a bit about programming. A cool project idea I have in mind may be to create something that works with MyAnimeList and could:
   - create an interactive weekly calendar with the anime I'm watching that are airing
